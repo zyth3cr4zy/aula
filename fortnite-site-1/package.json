@@ -1,0 +1,22 @@
+{
+  "name": "fortnite-site",
+  "version": "1.0.0",
+  "description": "A website project about Fortnite.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'Test step not defined'"
+  },
+  "keywords": [
+    "fortnite",
+    "gaming",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
